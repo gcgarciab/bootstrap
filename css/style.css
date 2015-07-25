@@ -96,3 +96,9 @@ ul li a{
 	background: rgba(0, 0, 0, 0.2);
 	width: 30%;
 }
+
+.contenido{
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+}
