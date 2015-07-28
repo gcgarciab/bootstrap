@@ -63,6 +63,7 @@ ul li a{
 	display: inline-block;
 	width: 60%;
 	vertical-align: top;
+	margin: auto;
 }
 
 #quienes_somos{
@@ -74,6 +75,7 @@ ul li a{
 .imagen{
 	display: inline-block;
 	width: 35%;
+	margin: auto;
 }
 
 .mensual{
@@ -97,8 +99,3 @@ ul li a{
 	width: 30%;
 }
 
-.contenido{
-	padding: 20px;
-	margin: auto;
-	text-align: center;
-}
